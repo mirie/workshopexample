@@ -5,7 +5,7 @@
   "author": "Mai Irie",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mirie/workshopper_example.git"
+    "url": "https://github.com/mirie/workshopexample.git"
   },
   "bin": {
     "workshopexample": "./workshopexample.js"
