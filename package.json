@@ -1,7 +1,12 @@
 {
   "name": "workshopexample",
+  "version": "0.1",
+  "description": "Trying out the workshopper framework.",
   "author": "Mai Irie",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirie/workshopper_example.git"
+  },
   "bin": {
     "workshopexample": "./workshopexample.js"
   },
